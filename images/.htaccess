@@ -1,0 +1,4 @@
+<Files ~ "^.*">
+Deny from all
+</Files>
+ErrorDocument 403 http://apjea.dsaps/404/
